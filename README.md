@@ -1,5 +1,5 @@
 # Classification
-It is a beginner’s approach to classification. Scikit-learn’s SVM was used to create a vector classifier. It also includes Implements an artificial neural network approach using Keras. A simple introduction to multi-layer perceptron in Keras.
+It is a beginner’s approach to classification. Scikit-learn’s SVM was used to create a vector classifier. It also includes Implements an artificial neural network (ANN) approach using Keras. A simple introduction to multi-layer perceptron in Keras.
 
 The dataset used here is MNIST dataset. MNIST ("Modified National Institute of Standards and Technology") is the “hello world” dataset of computer vision. This dataset of handwritten images has served as the basis for benchmarking classification algorithms. For new machine learning techniques, MNIST remains a reliable resource for researchers and learners.
 
